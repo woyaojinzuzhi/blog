@@ -6,7 +6,7 @@
   <link href="http://woyaojinzuzhi.github.io/blog/atom.xml" rel="self"/>
   
   <link href="http://woyaojinzuzhi.github.io/blog/"/>
-  <updated>2021-04-03T13:25:44.630Z</updated>
+  <updated>2021-04-04T06:26:00.653Z</updated>
   <id>http://woyaojinzuzhi.github.io/blog/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>article_name</title>
+    <link href="http://woyaojinzuzhi.github.io/blog/2021/04/04/article-name/"/>
+    <id>http://woyaojinzuzhi.github.io/blog/2021/04/04/article-name/</id>
+    <published>2021-04-04T03:41:30.000Z</published>
+    <updated>2021-04-04T06:26:00.653Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;img src=&quot;/blog/2021/04/04/article-name/js.png&quot; class</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>什么是JavaScript</title>
+    <link href="http://woyaojinzuzhi.github.io/blog/2021/04/04/review/"/>
+    <id>http://woyaojinzuzhi.github.io/blog/2021/04/04/review/</id>
+    <published>2021-04-04T03:27:30.000Z</published>
+    <updated>2021-04-04T03:37:15.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;什么是JavaScript&quot;&gt;&lt;a href=&quot;#什么是JavaScript&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="复习JS" scheme="http://woyaojinzuzhi.github.io/blog/categories/%E5%A4%8D%E4%B9%A0JS/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Mr.Li</title>
     <link href="http://woyaojinzuzhi.github.io/blog/2021/04/03/hello-world/"/>
     <id>http://woyaojinzuzhi.github.io/blog/2021/04/03/hello-world/</id>
     <published>2021-04-03T09:27:58.869Z</published>
-    <updated>2021-04-03T13:25:44.630Z</updated>
+    <updated>2021-04-04T03:13:41.226Z</updated>
     
     
     
